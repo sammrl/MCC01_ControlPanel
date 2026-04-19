@@ -1,0 +1,40 @@
+Layer,Category,Component,Brand,Part Number,Description,Qty Used,Qty Purch.,Unit Cost ($),Ext. Cost ($),Source,Status,Notes / Action
+L1 – Core Control,PLC,Allen-Bradley Micro850 PLC,Allen-Bradley,2080-LC50-48QBB,"48-point DC PLC, Ethernet, USB, 24VDC",1,1,,,Vendor/eBay,Confirmed,Backbone controller
+L1 – Core Control,PLC Expansion,Micro850 Expansion Module,Allen-Bradley,TBD,"I/O expansion plug-in, model TBD",1,1,,,Vendor/eBay,Confirmed,Included with above purchase
+L1 – Core Control,SBC,Raspberry Pi 5,Raspberry Pi,SC1112,"16GB, edge compute node",1,1,,,Vendor,Confirmed,16GB with 256 GB SSD
+L1 – Core Control,Microcontroller,ESP32-WROVER Dev Board,Espressif,ESP32-WROVER,"Wi-Fi/BT MCU, MQTT node",2,2,,,Amazon,Confirmed,ESP32-WROVER Dev Board
+L2 – Networking,Router,GL.iNet Opal,GL.iNet,GL-SFT1200,"Portable travel router, WPA3, OpenWrt",1,1,,,Amazon,Confirmed,Creates isolated LAN on site
+L2 – Networking,Ethernet Switch,TRENDnet Unmanaged Switch,TRENDnet,TBD,"8-port unmanaged, DIN-rail mount",1,1,,,Amazon,Confirmed,
+L2 – Networking,Patch Cable,Short Ethernet Patch Cables,Generic,—,0.5–1 ft Cat5e/6,3,0,,,—,Confirmed,
+L3 – Power Dist.,24V PSU,NVVV HDR-100-24,NVVV,HDR-100-24,"DIN rail, 24 VDC 3.83 A 92 W",1,1,,,Amazon,Confirmed,Amazon-sourced candidate
+L3 – Power Dist.,24V PSU,WAGO 787-1200,WAGO,787-1200,"DIN rail, 24 VDC Safety PSU",1,1,,,Vendor/eBay,Confirmed,Safety rail
+L3 – Power Dist.,5V PSU,BTF-LIGHTING 5 V 6 A,BTF-LIGHTING,5V-6A-30W,"5 V 6 A 30 W, 5.5x2.1 mm barrel",1,1,,,Amazon,Confirmed,"Pi, Router"
+L3 – Power Dist.,AC Inlet,AC Port Plug + Y-Splitter,MICTUNING,15A 250V,Panel-mount AC inlet with Y-splitter,1,1,,,Amazon,Confirmed,AC entry point for case
+L3 – Power Dist.,Circuit Breaker,DIN Rail Miniature Breaker,Generic,DZ47-63 C2,"2 A DIN rail MCB, AC branch disconnect",2,4,,,Amazon,Confirmed,Per protected rail
+L4 – Protection,Relay Module,WAGO Relay Module,WAGO,857-304,"SPDT relay, 24 VDC coil, 10 A contact",4,4,,,Vendor,Confirmed,Discrete output switching
+L4 – Protection,Relay,Finder Slim Relay,Finder,TBD,"Slim DIN relay, 24 VDC coil",2,4,,,Vendor,Confirmed,Exact series TBD
+L4 – Protection,Fuse Terminal,UK5-HESI Fuse Terminal Blocks,EPLZON,UK5-HESI,"5x20 mm fuse holder terminal, DIN rail",8,10,,,Amazon,Confirmed,Per fused branch
+L4 – Protection,Fuses,5x20 mm Slow-Blow Fuse Kit,BOJACK,—,"250 V slow-blow glass fuses, 0.5–6 A",2,1 kit,,,Amazon,Confirmed,Populate per circuit
+L4 – Protection,E-Stop,22 mm E-Stop Push Button,Generic,TBD,"22 mm NC twist-release E-stop, panel mount",1,1,,,Vendor,Confirmed,Safety interlock
+L4 – Protection,Flyback Diode,1N4007 Rectifier Diode,Various,1N4007,"1 A 1000 V, relay/solenoid flyback protection",10,20,,,Amazon,Discussed,Across inductive loads
+L5 – Wiring Infra.,Signal Terminals,DIN Rail Terminal Blocks (signal),Allen-Bradley,TBD,4 mm² grey signal terminals,20,30,,,Vendor,Confirmed,Exact brand/model TBD
+L5 – Wiring Infra.,Power Terminals,DIN Rail Terminal Blocks (power),ABB,TBD,6 mm² power / 24 V distribution terminals,10,12,,,Vendor,Confirmed,Exact brand/model TBD
+L5 – Wiring Infra.,Ground Terminals,PE Ground Terminal Blocks (ABB),ABB,TBD,"Green/yellow, DIN rail PE grounds",6,8,,,Vendor,Confirmed,Earth bonding
+L5 – Wiring Infra.,Ground Terminals,PE Ground Terminal Blocks (AB),Allen-Bradley,TBD,"Green/yellow, DIN rail PE grounds",6,8,,,Vendor,Confirmed,Earth bonding
+L5 – Wiring Infra.,DIN Rail,35 mm DIN Rail,Generic,EN 50022,"Standard top-hat DIN rail, cut to length",3 sections,3 sections,,,Vendor,Confirmed,
+L5 – Wiring Infra.,Wire Duct,Custom 3D-Printed Wire Duct,Custom,—,"OpenSCAD-designed, PETG printed",custom,—,,,3D Print,Confirmed,Printed on Prusa MK3S
+L5 – Wiring Infra.,Hookup Wire,MTW / Control Wire,Various,—,"Multi-colour, 18–22 AWG, stranded",1 spool ea.,—,,,Vendor,Confirmed,"Blue, brown, white/blue, etc."
+L5 – Wiring Infra.,Cable Ties,Nylon Zip Ties + Adhesive Mounts,Various,—,Cable management assortment,1 bag,1 bag,,,Amazon,Confirmed,
+L6 – Mechanical,Enclosure,Pelican IM2950 Case,Pelican,IM2950,Storm iM2950 rolling hard case,1,1,,,eBay,Confirmed,Primary portable enclosure
+L6 – Mechanical,Backplate,Wood Prototype Panel,Custom,—,"Current working backplate, plywood",1,1,,,Custom,Confirmed,Interim; replace with aluminium
+L6 – Mechanical,Backplate,Machined Aluminium Panel,Custom,—,Future CNC'd panel for final build,1,—,,,Machine Shop,Planned,Upgrade path
+L6 – Mechanical,Frame,2020 T-Slot Aluminium Ladder Frame,Generic,2020 extrusion,"Modular frame for panel, custom dims",custom,—,,,Amazon,Confirmed,
+L6 – Mechanical,Fasteners,M4 Hardware Kit,Generic,—,"M4 T-nuts, button heads, hex standoffs",1 kit,1 kit,,,Amazon,Confirmed,
+L6 – Mechanical,3D-Printed Parts,Custom Mounts / Brackets / Spacers,Custom,—,PETG printed on Prusa MK3S+,custom,—,,,3D Print,Confirmed,Ongoing
+L7 – HMI / Interface,Push Buttons,22 mm LED Push Buttons,Allen-Bradley,TBD,"24 VDC LED, momentary, red/green/white",6,8,,,Vendor,Confirmed,Exact model TBD
+L7 – HMI / Interface,Selector Switch,22 mm Selector Switch,Allen-Bradley,TBD,"2/3-position, maintained",2,2,,,Vendor,Confirmed,
+L7 – HMI / Interface,LED Indicators,22 mm Panel LED Indicators,Allen-Bradley,TBD,"24 VDC, red / green / amber / blue",6,8,,,Vendor,Confirmed,
+L7 – HMI / Interface,Operator Box,3D-Printed Operator Station,Custom,—,"External pushbutton/LED enclosure, PETG",1,1,,,3D Print,Confirmed,
+L8 – USB / Accessories,USB-C Adapter,USB-C Male Screw Terminal Breakout,Generic,—,USB-C male to +/- screw terminals,2,2,,,Amazon,Confirmed,5 V power injection
+L8 – USB / Accessories,PLC Cable,USB-B Programming Cable (Micro850),Generic,—,USB-A to USB-B for CCW programming,1,1,,,Amazon,Discussed,
+L8 – USB / Accessories,Serial Cable,Mini-DIN Serial Cable,Generic,—,Micro850 serial port cable,1,1,,,Vendor,Discussed,
