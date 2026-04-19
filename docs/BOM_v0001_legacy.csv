@@ -1,0 +1,70 @@
+ID,OEM,Part Number,Description,Notes,Product Link,Retail Price (USD)
+1,Allen-Bradley (Rockwell Automation),2080-LC50-48QBB,Micro850 Programmable Logic Controller (PLC),"48 I/O, 24V DC/AC Input, 20-24V DC Source Output, EtherNet/IP",https://www.rockwellautomation.com/en-us/products/details.2080-LC50-48QBB.html,~$516.99 - $970.53 (Discontinued)
+2,Carlo Gavazzi,SPD-2160,Switched Mode Power Supply (PSU),"24V DC, 2.5A, 60W, DIN Rail Mount",https://www.gavazziautomation.com/en-us/product/SPD24601B,~$75.00 - $141.59
+3,Wago,281-601,Push-in Rail-Mounted Terminal Block,"Feed-through, 4mm², CAGE CLAMP, Gray",https://www.wago.com/us/rail-chassis-terminal-blocks/2-conductor-through-terminal-block/p/281-601,~$3.47 - $5.53
+4,Wago,249-116,End Stop / End Terminal Block,"Screwless, 6mm wide, for DIN-rail 35 x 15 and 35 x 7.5, Gray",https://www.wago.com/us/rail-chassis-terminal-blocks/screwless-end-stop/p/249-116,~$1.50 - $3.00
+5,Allen-Bradley (Rockwell Automation),1492-EAJ35,Terminal Block End Anchor,"IEC Style, 8 x 56 x 47mm, Gray, for 35mm DIN Rail",https://www.rockwellautomation.com/en-us/products/details.1492-EAJ35.html,~$3.32 - $5.00
+6,Allen-Bradley (Rockwell Automation),1492-J3,Screw Connection Terminal Block,"Feed-through, 2.5mm², 20A, 600V, Gray, for 35mm DIN Rail",https://www.rockwellautomation.com/en-us/products/details.1492-J3.html,~$2.50 - $4.00
+7,ABB (Entrelec),ZK2.5-4P,PI-Spring Clamp Terminal Block,"4-conductor, Feed-through, 2.5mm², Gray",https://new.abb.com/products/1SNK705142R0000,~$4.00 - $6.00
+8,ABB (Entrelec),ZK2.5-PE-4P,PI-Spring Clamp Terminal Block,"4-conductor, Ground (PE), 2.5mm², Green/Yellow",https://new.abb.com/products/1SNK705152R0000,~$6.00 - $9.00
+9,Allen-Bradley (Rockwell Automation),1492-J64,Screw Connection Terminal Block,"Ground (PE), 4mm², 30A, 600V, Green/Yellow, for 35mm DIN Rail",https://www.rockwellautomation.com/en-us/products/details.1492-J64.html,~$4.00 - $6.00
+10,Allen-Bradley (Rockwell Automation),1492-J66,Screw Connection Terminal Block,"Ground (PE), 6mm², 40A, 600V, Green/Yellow, for 35mm DIN Rail",https://www.rockwellautomation.com/en-us/products/details.1492-J66.html,~$5.00 - $8.00
+11,Wago,281-907,Earth Terminal Block,"2-conductor, 4mm², Green/Yellow",https://www.wago.com/us/rail-chassis-terminal-blocks/2-conductor-ground-terminal-block/p/281-907,~$6.67 - $15.19
+12,ABB (Entrelec),EK2.5-4P,End Cover / Terminal Block Cover,"For ZK2.5-4P terminal blocks, Gray",https://new.abb.com/products/1SNK705912R0000,~$0.58 - $0.89
+13,Finder,34.51.7.024.0010,Slim Interface Relay,"1 Pole, 6A, 24V DC Coil, Screw Terminal, DIN Rail Mount",https://www.findernet.com/en/uk/series/34-series-slim-p-c-b-relays-emr-or-ssr-0-1-2-6a/type/type-3451-ultra-slim-electromechanical-pcb-relay-6a/,~$5.45 - $7.13
+14,Finder,34.51.7.060.5013,Slim Interface Relay,"1 Pole, 6A, 60V DC Coil, Screw Terminal, DIN Rail Mount",https://www.findernet.com/en/uk/series/34-series-slim-p-c-b-relays-emr-or-ssr-0-1-2-6a/type/type-3451-ultra-slim-electromechanical-pcb-relay-6a/,~$5.45 - $7.13
+15,Allen-Bradley (Rockwell Automation),731H-C2C2D-DC,Slim Interface Relay,"2 Pole, 6A, 24V DC Coil, Screw Terminal, DIN Rail Mount",https://www.rockwellautomation.com/en-us/products/details.731H-C2C2D-DC.html,~$15.00 - $25.00
+16,Phoenix Contact,PLC-BSC-120UC/21,PLC Interface Relay,"1 Pole, 6A, 120V AC/DC Coil, Screw Terminal, DIN Rail Mount",https://www.phoenixcontact.com/en-us/products/relay-module-plc-bsc-120uc21-2966089,~$25.00 - $40.00
+17,Wago,857-304,Slim Interface Relay,"1 Pole, 6A, 24V DC Coil, Push-in Terminal, DIN Rail Mount",https://www.wago.com/us/interface-modules/relay-module/p/857-304,~$15.00 - $25.00
+18,Allen-Bradley (Rockwell Automation),700-HB32,General Purpose Relay,"120V AC Coil, 3 Pole, 10A, Ice Cube Style, CAT 700-HB Series",https://www.rockwellautomation.com/en-us/products/details.700-HB32.html,~$20.00 - $35.00
+19,Carlo Gavazzi,RGC1A60D25K,Solid State Contactor (SSC),"1 Pole, 25A, 600V AC, DC Control Input, DIN Rail Mount",https://www.gavazziautomation.com/en-us/product/RGC1A60D25K,~$100.00 - $150.00
+20,Wago,787-1200,Switched Mode Power Supply (PSU),"24V DC, 5A, 120W, DIN Rail Mount",https://www.wago.com/us/power-supplies/switched-mode-power-supply/p/787-1200,~$150.00 - $250.00
+21,Weidmuller,1469470000,Switched Mode Power Supply (PSU),"24V DC, 3A, 72W, DIN Rail Mount",https://eshop.weidmueller.com/en/pro-eco-72w-24v-3a/p/1469470000,~$90.36 - $135.52
+22,Allen-Bradley (Rockwell Automation),1492-DR35,DIN Rail,"35mm x 7.5mm, 1 Meter Length (cut in half)",https://www.rockwellautomation.com/en-us/products/details.1492-DR35.html,~$17.87 - $25.00
+23,Elegoo,UNO R3 Super Starter Kit,Microcontroller Kit,Includes Arduino UNO R3 compatible board and various components,https://us.elegoo.com/products/elegoo-uno-r3-super-starter-kit,~$42.99 - $58.99
+24,Elegoo,ESP-32 Dev Kit V1,Microcontroller Development Board,"Wi-Fi and Bluetooth, Dual-Core Processor",https://www.elegoo.com/products/elegoo-esp32-development-board,~$15.00 - $25.00
+25,Schneider Electric,ZBE-101,Contact Block,"1 Normally Open (NO) Contact, Screw Clamp Terminal, for Harmony XB4/XB5 Pushbuttons",https://www.se.com/us/en/product/ZBE101/contact-block-single-front-mounting-1no-screw-clamp-terminal/,~$10.00 - $15.00
+26,Schneider Electric,ZBE-102,Contact Block,"1 Normally Closed (NC) Contact, Screw Clamp Terminal, for Harmony XB4/XB5 Pushbuttons",https://www.se.com/us/en/product/ZBE102/contact-block-single-front-mounting-1nc-screw-clamp-terminal/,~$10.00 - $15.00
+27,Schneider Electric,ZBE-102S,Contact Block,"1 Normally Closed (NC) Contact, Screw Clamp Terminal, for Emergency Stop Pushbuttons",https://www.se.com/us/en/product/ZBE102S/contact-block-single-front-mounting-1nc-screw-clamp-terminal-for-emergency-stop/,~$12.00 - $18.00
+28,Schneider Electric,ZBV-B4,Pilot Light / LED Block,"Red LED, 24V AC/DC, Screw Clamp Terminal, for Harmony XB4/XB5 Pushbuttons",https://www.se.com/us/en/product/ZBVB4/light-block-for-head-22mm-harmony-xb4-red-integral-led-24v-ac-dc/,~$20.00 - $30.00
+29,Schneider Electric,ZBV-B64,Pilot Light / LED Block,"Yellow LED, 24V AC/DC, Screw Clamp Terminal, for Harmony XB4/XB5 Pushbuttons",https://www.se.com/us/en/product/ZBVB64/light-block-for-head-22mm-harmony-xb4-yellow-integral-led-24v-ac-dc/,~$20.00 - $30.00
+30,Schneider Electric,ZBV-B45,Pilot Light / LED Block,"Blue LED, 24V AC/DC, Screw Clamp Terminal, for Harmony XB4/XB5 Pushbuttons",https://www.se.com/us/en/product/ZBVB45/light-block-for-head-22mm-harmony-xb4-blue-integral-led-24v-ac-dc/,~$20.00 - $30.00
+31,Schneider Electric,ZBV-B3,Pilot Light / LED Block,"Green LED, 24V AC/DC, Screw Clamp Terminal, for Harmony XB4/XB5 Pushbuttons",https://www.se.com/us/en/product/ZBVB3/light-block-for-head-22mm-harmony-xb4-green-integral-led-24v-ac-dc/,~$20.00 - $30.00
+32,Schneider Electric,ZBV-B55,Pilot Light / LED Block,"White LED, 24V AC/DC, Screw Clamp Terminal, for Harmony XB4/XB5 Pushbuttons",https://www.se.com/us/en/product/ZBVB55/light-block-for-head-22mm-harmony-xb4-white-integral-led-24v-ac-dc/,~$20.00 - $30.00
+33,Schneider Electric,ZBV-B65,Pilot Light / LED Block,"Clear/Transparent LED, 24V AC/DC, Screw Clamp Terminal, for Harmony XB4/XB5 Pushbuttons",https://www.se.com/us/en/product/ZBVB65/light-block-for-head-22mm-harmony-xb4-blue-integral-led-24v-ac-dc/,~$20.00 - $30.00
+34,Schneider Electric,ZBE-1015,Contact Block,"1 NO + 1 NC Contact, Screw Clamp Terminal, for Harmony XB4/XB5 Pushbuttons",https://www.se.com/us/en/product/ZBE1015/contact-block-single-front-mounting-1no-1nc-screw-clamp-terminal/,~$15.00 - $25.00
+35,Allen-Bradley (Rockwell Automation),800F-P34R,Pushbutton Operator,"Red, Flush, Plastic, 22mm, for 800F Series",https://www.rockwellautomation.com/en-us/products/details.800F-P34R.html,~$15.00 - $25.00
+36,Allen-Bradley (Rockwell Automation),800F-P34G,Pushbutton Operator,"Green, Flush, Plastic, 22mm, for 800F Series",https://www.rockwellautomation.com/en-us/products/details.800F-P34G.html,~$15.00 - $25.00
+37,Allen-Bradley (Rockwell Automation),800F-P34B,Pushbutton Operator,"Blue, Flush, Plastic, 22mm, for 800F Series",https://www.rockwellautomation.com/en-us/products/details.800F-P34B.html,~$15.00 - $25.00
+38,Allen-Bradley (Rockwell Automation),800F-P34C,Pushbutton Operator,"Clear/White, Flush, Plastic, 22mm, for 800F Series",https://www.rockwellautomation.com/en-us/products/details.800F-P34C.html,~$15.00 - $25.00
+39,Allen-Bradley (Rockwell Automation),800F-P34G (Metal Bezel),Pushbutton Operator,"Green, Flush, Metal Bezel, 22mm, for 800F Series",https://www.rockwellautomation.com/en-us/products/details.800F-P34G.html,~$20.00 - $30.00
+40,Siemens,3SU1000-0AB10-0AA0,Pushbutton Operator,"Black, Momentary, Plastic, 22mm, for SIRIUS ACT Series",https://mall.industry.siemens.com/mall/en/us/Catalog/Product/3SU1000-0AB10-0AA0,~$15.00 - $25.00
+41,Siemens,3SU1000-2BL60-0AA0,Selector Switch Operator,"2 Position, Maintained, Black, with LED, Plastic, 22mm, for SIRIUS ACT Series",https://mall.industry.siemens.com/mall/en/us/Catalog/Product/3SU1000-2BL60-0AA0,~$21.90 - $35.00
+42,Siemens,3SU1801-0AA00-0AB1,Enclosure / Button Housing,"Plastic, 1 Command Point, Yellow/Gray",https://mall.industry.siemens.com/mall/en/us/Catalog/Product/3SU1801-0AA00-0AB1,~$65.52 - $90.00
+43,Siemens,3SU1801-0AA00-0AC1,Enclosure / Button Housing,"Metal, 1 Command Point, Yellow/Gray",https://mall.industry.siemens.com/mall/en/us/Catalog/Product/3SU1801-0AA00-0AC1,~$80.00 - $120.00
+44,Schneider Electric,XB5AA21,Pushbutton Operator,"Black, Flush, Plastic, 22mm, for Harmony XB5 Series",https://www.se.com/us/en/product/XB5AA21/push-button-harmony-xb5-plastic-flush-black-22mm-spring-return-unmarked-1no/,~$31.13 - $37.36
+45,Schneider Electric,XB5AA31,Pushbutton Operator,"Green, Flush, Plastic, 22mm, for Harmony XB5 Series",https://www.se.com/us/en/product/XB5AA31/push-button-harmony-xb5-plastic-flush-green-22mm-spring-return-unmarked-1no/,~$31.13 - $37.36
+46,Schneider Electric,XB5AD33,Selector Switch Operator,"3 Position, Maintained, Black, Plastic, 22mm, for Harmony XB5 Series",https://www.se.com/us/en/product/XB5AD33/selector-switch-harmony-xb5-plastic-3-pos-maintained-black-22mm/,~$40.00 - $60.00
+47,Schneider Electric,XB5AD21,Selector Switch Operator,"2 Position, Maintained, Black, Plastic, 22mm, for Harmony XB5 Series",https://www.se.com/us/en/product/XB5AD21/selector-switch-harmony-xb5-plastic-2-pos-maintained-black-22mm/,~$40.00 - $60.00
+48,Schneider Electric,XB5AL42,Selector Switch Operator,"3 Position  spring return selector switch, Black, Plastic, 22mm, for Harmony XB5 Series",https://www.se.com/us/en/product/XB5AL42/selector-switch-harmony-xb5-plastic-3-pos-spring-return-from-right-black-22mm/,~$45.00 - $65.00
+49,Allen-Bradley (Rockwell Automation),800F-N3W,LED Light Module,"White LED, 24V AC/DC, Screw Clamp Terminal, for 800F Pushbuttons",https://www.rockwellautomation.com/en-us/products/details.800F-N3W.html,~$25.00 - $40.00
+50,Allen-Bradley (Rockwell Automation),800F-X01,Contact Block,"1 Normally Closed (NC) Contact, Screw Clamp Terminal, for 800F Pushbuttons",https://www.rockwellautomation.com/en-us/products/details.800F-X01.html,~$15.00 - $25.00
+51,Allen-Bradley (Rockwell Automation),800F-X10,Contact Block,"1 Normally Open (NO) Contact, Screw Clamp Terminal, for 800F Pushbuttons",https://www.rockwellautomation.com/en-us/products/details.800F-X10.html,~$15.00 - $25.00
+52,Siemens,3SU1401-1BB60-3AA0,Contact Block,"1 NO + 1 NC Contact, Screw Clamp Terminal, for SIRIUS ACT Pushbuttons",https://mall.industry.siemens.com/mall/en/us/Catalog/Product/3SU1401-1BB60-3AA0,~$20.00 - $35.00
+53,Siemens,3SU1400-1AA10-3BA0,Contact Block,"1 Normally Open (NO) Contact, Spring-type Terminal, for SIRIUS ACT Pushbuttons",https://mall.industry.siemens.com/mall/en/us/Catalog/Product/3SU1400-1AA10-3BA0,~$15.00 - $25.00
+54,Siemens,3SU1400-1AA10-3CA0,Contact Block,"1 Normally Closed (NC) Contact, Spring-type Terminal, for SIRIUS ACT Pushbuttons",https://mall.industry.siemens.com/mall/en/us/Catalog/Product/3SU1400-1AA10-3CA0,~$15.00 - $25.00
+55,Schneider Electric,ZBY9101,Marking Cap / Legend Cap,"Green, for Harmony XB4/XB5 Pushbuttons",https://www.se.com/us/en/product/ZBY9101/legend-holder-for-22mm-push-button-green/,~$5.00 - $10.00
+56,Schneider Electric,ZBY9102,Marking Cap / Legend Cap,"Yellow, for Harmony XB4/XB5 Pushbuttons",https://www.se.com/us/en/product/ZBY9102/legend-holder-for-22mm-push-button-yellow/,~$5.00 - $10.00
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
