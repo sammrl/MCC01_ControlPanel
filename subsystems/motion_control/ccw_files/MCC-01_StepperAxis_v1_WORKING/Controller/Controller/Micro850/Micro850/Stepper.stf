@@ -1,0 +1,27 @@
+PROGRAM Stepper
+#info= QLD
+BOF
+
+
+(**)
+
+SOR  [0,1] (**) (**)  XIC  [1,0] (*Always_On*) (**)  FB  [2,0] (*MC_Power*) (*Power_Enable*) ( (*EN:EN*)(**) (**)  , (*AxisIn:*)(*AXIS_1*) (**)  , (*Enable:*)(*True*) (**)  , (*Enable_Positive:*)(*TRUE*) (**)  , (*Enable_Negative:*)(*TRUE*) (**)  , (*__DTI_AxisIn:*)(*0*) (**) ; (*ENO:ENO*)(**) (**)  , (*Axis:*)(**) (**)  , (*Status:*)(**) (**)  , (*Busy:*)(**) (**)  , (*Active:*)(**) (**)  , (*Error:*)(**) (**)  , (*ErrorID:*)(**) (**) )
+EOR [5,0]
+
+
+(**)
+
+SOR  [0,9] (**) (**)  FB  [1,0] (*MC_MoveVelocity*) (*MoveVel*) ( (*EN:EN*)(**) (**)  , (*AxisIn:*)(*AXIS_1*) (**)  , (*Execute:*)(*_IO_EM_DI_18*) (**)  , (*Velocity:*)(*SetVelocity*) (**)  , (*Acceleration:*)(*5.0*) (**)  , (*Deceleration:*)(*5.0*) (**)  , (*Jerk:*)(*0.0*) (**)  , (*DirectionIn:*)(*1*) (**)  , (*BufferMode:*)(*0*) (**) ; (*ENO:ENO*)(**) (**)  , (*Axis:*)(**) (**)  , (*InVelocity:*)(**) (**)  , (*Busy:*)(**) (**)  , (*Active:*)(**) (**)  , (*Direction:*)(**) (**)  , (*CommandAborted:*)(**) (**)  , (*Error:*)(**) (**)  , (*ErrorID:*)(**) (**) )
+EOR [4,0]
+
+
+(**)
+
+SOR  [0,19] (**) (**)  FB  [1,0] (*MC_Halt*) (*MC_Halt_1*) ( (*EN:EN*)(**) (**)  , (*AxisIn:*)(*AXIS_1*) (**)  , (*Execute:*)(*_IO_EM_DI_17*) (**)  , (*Deceleration:*)(*5.0*) (**)  , (*Jerk:*)(*0.0*) (**)  , (*BufferMode:*)(*0*) (**) ; (*ENO:ENO*)(**) (**)  , (*Axis:*)(**) (**)  , (*Done:*)(**) (**)  , (*Busy:*)(**) (**)  , (*Active:*)(**) (**)  , (*CommandAborted:*)(**) (**)  , (*Error:*)(**) (**)  , (*ErrorID:*)(**) (**) )
+EOR [4,0]
+EOF
+#end_info
+#info= ID_MAX
+NextId=1
+#end_info
+END_PROGRAM

@@ -1,0 +1,20 @@
+[BEGIN FB INPUTS]
+I1=micro850.micro850.movevel.axisin,0xFFFFFFFF,AXIS_REF
+I2=micro850.micro850.movevel.execute,0x43A,BOOL
+I3=micro850.micro850.movevel.velocity,0x480,REAL
+I4=micro850.micro850.movevel.acceleration,0x1B98,REAL
+I5=micro850.micro850.movevel.deceleration,0x1B98,REAL
+I6=micro850.micro850.movevel.jerk,0x1B9C,REAL
+I7=micro850.micro850.movevel.directionin,0x1B8B,SINT
+I8=micro850.micro850.movevel.buffermode,0x1B8A,SINT
+I9=micro850.micro850.stepper/mc_halt_1.axisin,0xFFFFFFFF,AXIS_REF
+I10=micro850.micro850.stepper/mc_halt_1.execute,0x439,BOOL
+I11=micro850.micro850.stepper/mc_halt_1.deceleration,0x1B98,REAL
+I12=micro850.micro850.stepper/mc_halt_1.jerk,0x1B9C,REAL
+I13=micro850.micro850.stepper/mc_halt_1.buffermode,0x1B8A,SINT
+I14=micro850.micro850.power_enable.axisin,0xFFFFFFFF,AXIS_REF
+I15=micro850.micro850.power_enable.enable,0x474,BOOL
+I16=micro850.micro850.power_enable.enable_positive,0x474,BOOL
+I17=micro850.micro850.power_enable.enable_negative,0x474,BOOL
+I18=micro850.micro850.power_enable.__dti_axisin,0xFFFFFFFF,DINT
+[END]

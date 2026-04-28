@@ -1,0 +1,65 @@
+(****** QuickLD compiler *******************************)
+(****** Copyright Rockwell Automation Canada, Ltd ******)
+(****** ST *********************************************)
+
+(*************** Rung **********************************)
+(**)
+__STEPPRAGMA
+0,1
+__ENDSTEPPRAGMA
+(*Label :*)(**)
+__EDTB1 := ALWAYS_ON ;
+IF __EDTB1 THEN
+(* FB call: MC_Power *)
+Power_Enable(AXIS_1, TRUE, TRUE, TRUE, 0) ;
+END_IF ;
+__MO_MC_POWER_1 := __EDTB1 ;
+
+(*************** Code for the end of Rung **************)
+__GL __LG0001 ;
+
+
+(*************** Rung **********************************)
+(**)
+__STEPPRAGMA
+0,9
+__ENDSTEPPRAGMA
+(*Label :*)(**)
+__EDTB2 := TRUE ;
+IF __EDTB2 THEN
+(* FB call: MC_MoveVelocity *)
+MoveVel(AXIS_1, _IO_EM_DI_18, SETVELOCITY, 5.0, 5.0, 0.0, 1, 0) ;
+END_IF ;
+__MO_MC_MOVEVELOCITY_1 := __EDTB2 ;
+
+(*************** Code for the end of Rung **************)
+__GL __LG0002 ;
+
+
+(*************** Rung **********************************)
+(**)
+__STEPPRAGMA
+0,19
+__ENDSTEPPRAGMA
+(*Label :*)(**)
+__EDTB3 := TRUE ;
+IF __EDTB3 THEN
+(* FB call: MC_Halt *)
+MC_Halt_1(AXIS_1, _IO_EM_DI_17, 5.0, 0.0, 0) ;
+END_IF ;
+__MO_MC_HALT_1 := __EDTB3 ;
+
+(*************** Code for the end of Rung **************)
+__GL __LG0003 ;
+
+
+(*************** Code for the end of File **************)
+__GL __LG0000 ;
+
+
+
+(*************** Local Symbols table *******************)
+(* __EDTB1 *)
+(* __EDTB2 *)
+(* __EDTB3 *)
+
