@@ -1,8 +1,8 @@
-# MC-01 Panel — Power Distribution
+# MCC-01 Panel — Power Distribution
 
 ## Overview
 
-The MC-01 panel uses a three-rail power architecture: a 24V control rail (CPU,
+The MCC-01 panel uses a three-rail power architecture: a 24V control rail (CPU,
 networking infrastructure), a 24V load rail (actuators, output stages, indicator
 lamps), and a 5V rail (Pi 5, router). Control and load rails are separately
 sourced and protected so a load-side fault cannot disable the PLC's CPU or
