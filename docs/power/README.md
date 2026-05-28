@@ -10,8 +10,8 @@ network communications.
 
 ##TODO
 - [ ] Add annotations
-- [ ] Add earth ground path from AC mains entry
+- [x] Add earth ground path from AC mains entry
 - [ ] Add legend (color = rail, line weight, dashed = future)
 - [ ] Add Design Decisions callout box on canvas (or rely on README for these)
 - [ ] Confirm PSU model numbers and update labels
-- [ ] create grounding diagram
+- [x] create grounding diagram
